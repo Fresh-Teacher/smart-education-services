@@ -1,1 +1,1 @@
-# smart-education-services
+# This repo is live at https://freshteacher.tech/smart-education-services
